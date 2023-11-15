@@ -1,0 +1,90 @@
+
+body{
+    background-image:linear-gradient(#B81104, #810214);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.agungTop{
+    color: white;
+}
+
+.agungLogo{
+    width: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.agungPerusahaan{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.agungHubungi{
+    font-weight: lighter;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.agungWAIcon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.agungWAIcon:hover{
+    width: 2.75em;
+}
+
+button{
+    background-color: transparent;
+    border: solid;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    
+    cursor: pointer;
+    width: 50%
+}
+
+button:hover{
+    background-color: white;
+    color: #B81104;
+    font-weight: bolder;
+}
+
+.agungTombol a{
+    color: white;
+    text-decoration: none;
+}
+
+.agungLinktreeIcon{
+    width: 140px;
+    color: white;
+    -webkit-filter: invert(100%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.agungNRP{
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    opacity: 50%;
+}
