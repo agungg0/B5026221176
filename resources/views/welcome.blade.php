@@ -10,20 +10,20 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assetsUTS/img/favicon.png" rel="icon">
-  <link href="assetsUTS/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assetsUTS/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assetsUTS/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assetsUTS/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assetsUTS/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assetsUTS/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assetsUTS/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="assetsUTS/css/style.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -32,7 +32,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <!-- validation form -->
-    <script src="assetsUTSJSValidateForm/myScript.js"></script>
+    <script src="assetsJSValidateForm/myScript.js"></script>
 </head>
 
 <body>
@@ -43,7 +43,8 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assetsUTS/img/aku2.png" alt="" class="img-fluid rounded">
+        <img src="assets
+/img/aku2.png" alt="" class="img-fluid rounded">
         <h1 class="text-light"><a href="index.html">Agung Budi Prasetya</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/aguuunnngg_" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -90,7 +91,8 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assetsUTS/img/aku.png" class="img-fluid" alt="">
+            <img src="assets
+    /img/aku.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Agung Budi Prasetya</h3>
@@ -216,17 +218,20 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assetsUTS/img/20230713_194718 (5).jpg" alt="Cone">
+            <img class="d-block w-100" src="assets
+    /img/20230713_194718 (5).jpg" alt="Cone">
             <div class="carousel-caption d-none d-md-block">
               <h5>Cone</h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="assetsUTS/img/20221216233137_IMG_6496.jpg" alt="Car">
+            <img class="d-block w-100" src="assets
+    /img/20221216233137_IMG_6496.jpg" alt="Car">
 
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="assetsUTS/img/20230902_154622 (1).jpg" alt="VIP">
+            <img class="d-block w-100" src="assets
+    /img/20230902_154622 (1).jpg" alt="VIP">
             <div class="carousel-caption d-none d-md-block">
               <h5>VIP</h5>
           </div>
@@ -342,18 +347,18 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assetsUTS/vendor/aos/aos.js"></script>
-  <script src="assetsUTS/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assetsUTS/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assetsUTS/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assetsUTS/vendor/php-email-form/validate.js"></script>
-  <script src="assetsUTS/vendor/purecounter/purecounter.js"></script>
-  <script src="assetsUTS/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assetsUTS/vendor/typed.js/typed.min.js"></script>
-  <script src="assetsUTS/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assetsUTS/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
 </body>
 
