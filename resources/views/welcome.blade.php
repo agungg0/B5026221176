@@ -209,7 +209,7 @@
     </section><!-- End Resume Section -->
 
     <!-- Photograph -->
-    <section>
+    <section id="photograph">
       <div id="carouselExampleIndicators photograph" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -218,20 +218,17 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets
-    /img/20230713_194718 (5).jpg" alt="Cone">
+            <img class="d-block w-100" src="assets/img/20230713_194718 (5).jpg" alt="Cone">
             <div class="carousel-caption d-none d-md-block">
               <h5>Cone</h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="assets
-    /img/20221216233137_IMG_6496.jpg" alt="Car">
+            <img class="d-block w-100" src="assets/img/20221216233137_IMG_6496.jpg" alt="Car">
 
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="assets
-    /img/20230902_154622 (1).jpg" alt="VIP">
+            <img class="d-block w-100" src="assets/img/20230902_154622 (1).jpg" alt="VIP">
             <div class="carousel-caption d-none d-md-block">
               <h5>VIP</h5>
           </div>
@@ -249,7 +246,7 @@
 
     <!-- Form -->
    <section>
-    <div class="container">
+    <div id="form" class="container">
         <div class="section-title">
             <h2>Lets Get in Touch</h2>
 
