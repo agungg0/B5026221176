@@ -10,5 +10,8 @@
         <li><strong>Alamat:</strong> {{ $alamat }}</li>
         <li><strong>Umur:</strong> {{ $umur }} tahun</li>
     </ul>
+
+
+        <a href="showJam/{{date('G:i:s')}}">Klik di sini</a>
 </body>
 </html>
