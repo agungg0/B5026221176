@@ -12,7 +12,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">5026221077</a>
+  <a class="navbar-brand" href="#">5026221176</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -24,9 +24,9 @@
           tugas
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/linktree">tugas 1</a>
-          <a class="dropdown-item" href="/layout">tugas 2</a>
-          <a class="dropdown-item" href="/welcome">ETS</a>
+          <a class="dropdown-item" href="/tugas1">tugas 1</a>
+          <a class="dropdown-item" href="#">tugas 2</a>
+          <a class="dropdown-item" href="#">ETS</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -34,13 +34,13 @@
           Materi
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="/htmlpart1">materi 1</a>
-          <a class="dropdown-item" href="/htmlpart2">materi 2</a>
-          <a class="dropdown-item" href="/htmlpart3">materi 3</a>
-          <a class="dropdown-item" href="/responsive">materi 4</a>
-          <a class="dropdown-item" href="/replace">materi 5</a>
-          <a class="dropdown-item" href="/testmath">materi 6</a>
-          <a class="dropdown-item" href="/validation">materi 7</a>
+          <a class="dropdown-item" href="#">materi 1</a>
+          <a class="dropdown-item" href="#">materi 2</a>
+          <a class="dropdown-item" href=#>materi 3</a>
+          <a class="dropdown-item" href="#">materi 4</a>
+          <a class="dropdown-item" href="#">materi 5</a>
+          <a class="dropdown-item" href="#">materi 6</a>
+          <a class="dropdown-item" href="#">materi 7</a>
         </div>
       </li>
     </ul>
