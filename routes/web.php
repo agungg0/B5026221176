@@ -69,3 +69,12 @@ Route::get('/keranjangbelanja','App\Http\Controllers\KeranjangController@index')
 Route::get('/keranjangbelanja/beli','App\Http\Controllers\KeranjangController@beli');
 Route::post('/keranjangbelanja/store','App\Http\Controllers\KeranjangController@store');
 Route::get('/keranjangbelanja/hapus/{id}','App\Http\Controllers\KeranjangController@hapus');
+
+Route::get('/televisi','App\Http\Controllers\televisiController@index');
+Route::get('/televisi/tambah','App\Http\Controllers\televisiController@tambah');
+Route::post('/televisi/store','App\Http\Controllers\televisiController@store');
+Route::get('/televisi/edit/{kodetelevisi}','App\Http\Controllers\televisiController@edit');
+Route::post('/televisi/update','App\Http\Controllers\televisiController@update');
+Route::get('/televisi/hapus/{kodetelevisi}','App\Http\Controllers\televisiController@hapus');
+Route::get('/televisi/cari','App\Http\Controllers\televisiController@cari');
+Route::get('/televisi/view/{kodetelevisi}','App\Http\Controllers\televisiController@view');
