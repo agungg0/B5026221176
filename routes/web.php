@@ -78,3 +78,6 @@ Route::post('/televisi/update','App\Http\Controllers\televisiController@update')
 Route::get('/televisi/hapus/{kodetelevisi}','App\Http\Controllers\televisiController@hapus');
 Route::get('/televisi/cari','App\Http\Controllers\televisiController@cari');
 Route::get('/televisi/view/{kodetelevisi}','App\Http\Controllers\televisiController@view');
+
+Route::get('/kategori','App\Http\Controllers\kategoriController@index');
+Route::post('/kategori/pilih','App\Http\Controllers\kategoriController@pilih');

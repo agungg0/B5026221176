@@ -25,8 +25,8 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="/tugas1">tugas 1</a>
-          <a class="dropdown-item" href="#">tugas 2</a>
-          <a class="dropdown-item" href="#">ETS</a>
+          <a class="dropdown-item" href="/tugas2">tugas 2</a>
+          <a class="dropdown-item" href="/welcome">ETS</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -34,13 +34,12 @@
           Materi
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">materi 1</a>
-          <a class="dropdown-item" href="#">materi 2</a>
-          <a class="dropdown-item" href=#>materi 3</a>
-          <a class="dropdown-item" href="#">materi 4</a>
-          <a class="dropdown-item" href="#">materi 5</a>
-          <a class="dropdown-item" href="#">materi 6</a>
-          <a class="dropdown-item" href="#">materi 7</a>
+          <a class="dropdown-item" href="/week1">Week 1</a>
+          <a class="dropdown-item" href="/week2">Week 2</a>
+          <a class="dropdown-item" href="/week4">Week 4</a>
+          <a class="dropdown-item" href="/week6">Week 6</a>
+          <a class="dropdown-item" href="/Week7">Week 7</a>
+
         </div>
       </li>
     </ul>
